@@ -1,0 +1,11 @@
+[Interface]
+PrivateKey = UPkokjl30lltYwXivGtgLs8gjfvNr2AKizJy5u8zx1w=
+Address = 192.168.254.88
+MTU = 1342
+DNS = 8.8.8.8, 8.8.4.4
+
+[Peer]
+PublicKey = Q5YVeSDckj6prM/phcMyjq43oicZWAKvGdo02JPDCWY=
+AllowedIPs = 0.0.0.0/0
+Endpoint = 203.166.159.20:25
+PersistentKeepalive = 25
